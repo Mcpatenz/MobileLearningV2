@@ -1,0 +1,6 @@
+{
+  "name": "MLA Mobile Learning 2.0",
+  "description": "TNHS Mobile Learning System — A unified role-based mobile Learning Management System for Students, Teachers, and Administrators featuring rotating refresh-token security and server-authoritative assessments.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
